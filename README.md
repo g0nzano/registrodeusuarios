@@ -1,5 +1,7 @@
 # registro de usuarios Javascript, Html y Css
 totalmente funcional conectado con base de datos sql utilize la api https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js
-![image](https://user-images.githubusercontent.com/77991838/136607420-d4a28063-6d3c-4549-ba9a-6c634dca9172.png)
-![image](https://user-images.githubusercontent.com/77991838/136607660-2c9f91a8-e24a-4493-97e0-39e3f53bf98c.png)
-![image](https://user-images.githubusercontent.com/77991838/136607790-e272da42-2d5b-47d4-b3e8-d3a24d318a36.png)
+
+
+![image](https://user-images.githubusercontent.com/77991838/136608221-6631c825-cf9e-48b2-b17c-0dd5d3326f56.png)
+![image](https://user-images.githubusercontent.com/77991838/136608184-18dbe447-9a8a-4d14-90d0-98cce9f14bb9.png)
+![image](https://user-images.githubusercontent.com/77991838/136608199-cde087d7-ea6c-4466-946e-ae0b0d244258.png)

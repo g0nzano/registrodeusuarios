@@ -1,6 +1,6 @@
 <?php
 
-$conexion = mysqli_connect("192.168.100.22", "servidor", "1234","usuarios");
+$conexion = mysqli_connect("localhost", "usuario", "contraseña","nombre de la tabla"); // para conexion del base de datos
 
 $nombre = $_POST["nombre"];
 $email = $_POST["email"];
